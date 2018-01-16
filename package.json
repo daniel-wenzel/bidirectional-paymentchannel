@@ -1,0 +1,38 @@
+{
+  "name": "bidirectional-paymentchannel",
+  "version": "1.0.0",
+  "description": "Simple Bidirectional Payment Channel for the Ethereum Blockchain written in Solidity",
+  "main": "truffle test",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "ethereumjs-util": "^5.1.3",
+    "expect": "^22.0.6",
+    "should": "^13.2.0",
+    "solidity-coverage": "^0.4.8",
+    "solidity-sha3": "^0.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-wenzel/bidirectional-paymentchannel.git"
+  },
+  "keywords": [
+    "payment",
+    "channel",
+    "paymentchannel",
+    "bidirectional",
+    "ethereum",
+    "solidity"
+  ],
+  "author": "Daniel Wenzel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-wenzel/bidirectional-paymentchannel/issues"
+  },
+  "homepage": "https://github.com/daniel-wenzel/bidirectional-paymentchannel#readme"
+}
